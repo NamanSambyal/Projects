@@ -1,0 +1,27 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>WEB PAGE GENERATOR</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+
+	<header>
+		<div class="main">
+			<div class="logo">
+				<img src="14.jpg"/>
+			</div>
+
+		</div>
+		<div class="title">
+			<h1>Web Page Generator</h1>
+		<div class="button">
+			<a href="webpage.html" class="btn">WEBPAGE CONVERTER</a>
+			<a href="textrecognition.html" class="btn">TEXT RECOGNITION</a>
+		</div>
+
+	</header>	
+
+</body>
+</html>
